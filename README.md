@@ -6,6 +6,7 @@ This repository includes the code that I wrote during this course along with som
 
 ### Why use this repository and not the one provided in the video ?
 When I tried to use MUI with the one provided in the video (which uses create react app). I got a bunch of errors when I tried to use mui . The errors were all about conflicting modules . And I was just focusing on studying MUI and not solving problems between dependencies, so I used vite instead (and it did great !) .
+
 ---
 
 # React + Vite
